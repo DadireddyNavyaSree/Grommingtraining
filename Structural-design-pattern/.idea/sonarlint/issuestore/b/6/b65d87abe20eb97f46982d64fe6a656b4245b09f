@@ -1,0 +1,11 @@
+
+F
+java:S1172"+Remove this unused method parameter "name".(ÎøŞëøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó˜·éùÿÿÿÿ
+O
+java:S1172	"9Remove these unused method parameters "name", "quantity".(Ü–ÁÈ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(æìô³ûÿÿÿÿ
+D
+java:S1172".Remove this unused method parameter "orderId".(£šôË
+N	java:S106"9Replace this use of System.out or System.err by a logger.(È€¾¯

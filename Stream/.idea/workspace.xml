@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a21163d7-9018-4278-ad5f-a7e6d6a992c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/GrommingTraining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/DesktopFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/LaptopFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/abstractfactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/builder/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/factorypattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/prototype/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/prototype/Memebership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/prototype/TestPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/DateUtilThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/TestEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/TestSerialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Design-patttern/src/main/java/com/navya/singleton/TestThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CoverUsage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/StreamCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/StreamIntroduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/UpperToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/AllMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/AnyMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Distinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/FindAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/FindFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/FlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Limit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/NoneMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Skip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/navya/streams/streamapi/Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/BusinessCardDesigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/EmployeeClassAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/adapter/object/EmployeeObjectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/CheesePizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/PizzaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/PlainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/decorater/VeggiePizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/facade/OrderFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/facade/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/facade/TestFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/flyweight/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/flyweight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/flyweight/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Structural-design-pattern/src/main/java/com/navya/flyweight/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/HelpDeskHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/HelpDeskTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/HighPriorityHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/LowPriorityHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/MediumPriorityHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/chainofresponsibility/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/ChangeChannelCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/TurnOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/TurnOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/command/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/observer/AverageScoreDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/observer/CricketData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/observer/CurrentScoreDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/state/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/state/OffState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/state/OnState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/OperationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/strategy/Substraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/template/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/template/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../behavioral-design-patterns/src/main/java/com/navya/template/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OJv38QlQ5McII9w5DIpq35hQNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.navya.streams.streamapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Reduce">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.navya.streams.DemoApplication" />
+      <module name="Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.navya.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.navya.streams.streamapi.FlatMap" />
+      <module name="Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.navya.streams.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.navya.streams.streamapi.Limit" />
+      <module name="Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.navya.streams.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.navya.streams.streamapi.Reduce" />
+      <module name="Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.navya.streams.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.navya.streams.UpperToLowerCase" />
+      <module name="Stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.navya.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reduce" />
+        <item itemvalue="Application.UpperToLowerCase" />
+        <item itemvalue="Application.FlatMap" />
+        <item itemvalue="Application.Limit" />
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a21163d7-9018-4278-ad5f-a7e6d6a992c3" name="Changes" comment="" />
+      <created>1681291298973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681291298973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
